@@ -57,7 +57,7 @@ run_experiment_1()
 To run Experiment 2 and save the results, use the following command. The results will be saved in `results/experiment2/yyyy_mm_dd/solutions.xlsx`, where `yyyy_mm_dd` stands for the date when the results are saved.
 
 ```julia
-sols = experiment2(10:10:20, 4:4:12, "results/experiment2")  # Uncomment to run
+sols = experiment2(50:50:400, 4:4:20, "results/experiment2")  # Uncomment to run
 ```
 
 ## Experiment 2 (Plots and Tables)

@@ -1,7 +1,10 @@
 # Paper Experiments
 > Integrated Game-Theoretic and Multi-objective Models for Dynamic Economic Emission Dispatch in Multi-Period Smart Grid Demand Response
 >
-
+> Authors:
+> - Norah Almuraysil, 
+> - Mohammed Alshahrani, 
+> - Slim Belhaiza
 
 This repository contains the code and instructions for running experiments using the `DRDeed` package. The experiments focus on optimizing energy management in smart grids by integrating demand response strategies.
 

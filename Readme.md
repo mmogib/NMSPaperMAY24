@@ -1,3 +1,6 @@
+# Tables of Results
+Data and details results can be found in the document [TABLES.pdf]("./TABLE.pdf").
+
 # Paper Experiments
 > Integrated Game-Theoretic and Multi-objective Models for Dynamic Economic Emission Dispatch in Multi-Period Smart Grid Demand Response
 >
